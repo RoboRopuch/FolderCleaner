@@ -1,0 +1,14 @@
+C:\Users\madzi\source\repos\DownloadCleaner\DownloadCleaner\bin\Debug\net6.0\DownloadCleaner.exe
+C:\Users\madzi\source\repos\DownloadCleaner\DownloadCleaner\bin\Debug\net6.0\DownloadCleaner.deps.json
+C:\Users\madzi\source\repos\DownloadCleaner\DownloadCleaner\bin\Debug\net6.0\DownloadCleaner.runtimeconfig.json
+C:\Users\madzi\source\repos\DownloadCleaner\DownloadCleaner\bin\Debug\net6.0\DownloadCleaner.dll
+C:\Users\madzi\source\repos\DownloadCleaner\DownloadCleaner\bin\Debug\net6.0\DownloadCleaner.pdb
+C:\Users\madzi\source\repos\DownloadCleaner\DownloadCleaner\obj\Debug\net6.0\DownloadCleaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madzi\source\repos\DownloadCleaner\DownloadCleaner\obj\Debug\net6.0\DownloadCleaner.AssemblyInfoInputs.cache
+C:\Users\madzi\source\repos\DownloadCleaner\DownloadCleaner\obj\Debug\net6.0\DownloadCleaner.AssemblyInfo.cs
+C:\Users\madzi\source\repos\DownloadCleaner\DownloadCleaner\obj\Debug\net6.0\DownloadCleaner.csproj.CoreCompileInputs.cache
+C:\Users\madzi\source\repos\DownloadCleaner\DownloadCleaner\obj\Debug\net6.0\DownloadCleaner.dll
+C:\Users\madzi\source\repos\DownloadCleaner\DownloadCleaner\obj\Debug\net6.0\refint\DownloadCleaner.dll
+C:\Users\madzi\source\repos\DownloadCleaner\DownloadCleaner\obj\Debug\net6.0\DownloadCleaner.pdb
+C:\Users\madzi\source\repos\DownloadCleaner\DownloadCleaner\obj\Debug\net6.0\DownloadCleaner.genruntimeconfig.cache
+C:\Users\madzi\source\repos\DownloadCleaner\DownloadCleaner\obj\Debug\net6.0\ref\DownloadCleaner.dll
